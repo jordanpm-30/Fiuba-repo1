@@ -1,0 +1,10 @@
+primero conecto mi cuenta de github con mi compu mediante mi clave ssh 
+git init (para iniciar)
+git add . / git add nombreDelArchivo (para anadir todo o el archivo)
+git status (para fijarnos que falta agregar al git rojo no ,verde si)
+git commit -m "lo que hicimos" (para decir lo que hicimos)
+git push (para subirlo al git)
+otras funciones mas vistas en clase
+git pull 
+no me acuerdo xd (fijarse en el doc de google ccomandos de terminal) 
+
